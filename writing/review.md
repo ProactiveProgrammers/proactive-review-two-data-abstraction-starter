@@ -83,7 +83,7 @@ and then use the following instructions to complete the next questions.
 TODO: The learning objectives that you state and discuss should be different than the ones
 that you explained during the completion of the last proactive review assignment
 
-### Record three learning objectives for which you judge you can demonstrate mastery of the technical skill
+### Record three learning objectives for which you judge you can demonstrate mastery of the technical knowledge or skill
 
 #### Restate the first learning objective and then explain how you know that you have mastered it
 
