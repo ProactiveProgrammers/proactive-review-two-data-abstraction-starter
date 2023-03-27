@@ -128,9 +128,9 @@ TODO: Please create a filled checkbox for each review task that you completed:
 - [] Answered all of the questions in the proactive review document
 
 TODO: If you have questions or concerns about content in this module that you
-could not resolve after completing the proactive review, please take these steps:
+could not resolve after completing the proactive review, you should take these steps:
 
-- [] Posted questions to a public channel in Discord for any unresolved issues
+- [] Post questions to a public channel in Discord for any unresolved issues
 - [] Schedule office hours with the course instructor to discuss any unresolved issues
 
 ## Professional Evaluation
